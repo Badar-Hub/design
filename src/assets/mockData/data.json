@@ -1,0 +1,374 @@
+{
+  "data": [
+    {
+      "date": "21-10-2021",
+      "league": [
+        {
+          "country": "Fance",
+          "name": "Coupe De La Ligue",
+          "isFavorite": true,
+          "isLive": true,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Monaco",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Rennes",
+                "goals": "1",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Bordeaux",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Le Havre AC",
+                "goals": "0",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "PSG",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "EA Guingamp",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        },
+        {
+          "country": "Afrique du sud",
+          "name": "Premier League",
+          "isFavorite": false,
+          "isLive": false,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Bidvest Wits",
+                "goals": "0",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Kaizer Chiefs",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "22-10-2021",
+      "league": [
+        {
+          "country": "Fance",
+          "name": "Coupe De La Ligue",
+          "isFavorite": false,
+          "isLive": true,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Monaco",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Rennes",
+                "goals": "1",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Bordeaux",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Le Havre AC",
+                "goals": "0",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "PSG",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "EA Guingamp",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        },
+        {
+          "country": "Afrique du sud",
+          "name": "Premier League",
+          "isFavorite": true,
+          "isLive": false,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Bidvest Wits",
+                "goals": "0",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Kaizer Chiefs",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "23-10-2021",
+      "league": [
+        {
+          "country": "Fance",
+          "name": "Coupe De La Ligue",
+          "isFavorite": false,
+          "isLive": false,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Monaco",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Rennes",
+                "goals": "1",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Bordeaux",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Le Havre AC",
+                "goals": "0",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "PSG",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "EA Guingamp",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        },
+        {
+          "country": "Afrique du sud",
+          "name": "Premier League",
+          "isFavorite": false,
+          "isLive": true,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Bidvest Wits",
+                "goals": "0",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Kaizer Chiefs",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "24-08-2021",
+      "league": [
+        {
+          "country": "Fance",
+          "name": "Coupe De La Ligue",
+          "isFavorite": true,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Monaco",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Rennes",
+                "goals": "1",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Bordeaux",
+                "goals": "1",
+                "status": "winner"
+              },
+              "teamTwo": {
+                "name": "Le Havre AC",
+                "goals": "0",
+                "status": "losser"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "PSG",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "EA Guingamp",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        },
+        {
+          "country": "Afrique du sud",
+          "name": "Premier League",
+          "isFavorite": true,
+          "matches": [
+            {
+              "teamOne": {
+                "name": "Bidvest Wits",
+                "goals": "0",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Kaizer Chiefs",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            },
+            {
+              "teamOne": {
+                "name": "Maritzbug United",
+                "goals": "1",
+                "status": "losser"
+              },
+              "teamTwo": {
+                "name": "Free State Starts",
+                "goals": "2",
+                "status": "winner"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

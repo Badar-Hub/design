@@ -17,7 +17,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Build the Docker image
+    - name: Build and Push the Docker image
       run: |
-            echo $GITHUB_RUN_ID
-            #docker build . --file Dockerfile --tag my-image-name:
+            
+            docker build . --file Dockerfile --tag my-image-name:$GITHUB_RUN_ID
+            docker tag my-image-name:$GITHUB_RUN_ID 03025608508/bablo:$GITHUB_RUN_ID
+            docker push 03025608508/bablo:$GITHUB_RUN_ID
